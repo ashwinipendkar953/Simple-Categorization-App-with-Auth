@@ -30,11 +30,11 @@ A full-featured application with **user authentication**, **OTP-based email veri
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js (with Vite), React Router, Redux, Toastify  
-- **Backend**: Node.js, Express.js  
+- **Frontend**: React.js (with Vite), React Router, Redux, Toastify, Bootstrap 
+- **Backend**: Node.js, Express.js, nodemailer 
 - **Database**: MongoDB  
 - **State Management**: Redux Toolkit  
-- **Deployment**: Netlify (Frontend), Vercel (Backend)  
+- **Deployment**: Vercel 
 
 ---
 
@@ -52,5 +52,5 @@ Make sure you have the following tools installed:
 
 1. **Clone the repository**:
    ```bash
-   [git clone https://github.com/ashwinipendkar953/Simple-Categorization-App-with-Auth.git]
+   git clone https://github.com/ashwinipendkar953/Simple-Categorization-App-with-Auth.git
    cd your-repo
